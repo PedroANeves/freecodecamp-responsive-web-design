@@ -2,7 +2,7 @@
 
 [(new) responsive web design course](https://www.freecodecamp.org/learn/2022/responsive-web-design)
 
-- [ ] Cat Photo App 
+- [X] Cat Photo App 
 - [ ] Cafe Menu
 - [ ] Colored Markers
 - [ ] Registration Form
