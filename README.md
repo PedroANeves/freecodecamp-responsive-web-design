@@ -6,7 +6,7 @@
 - [X] Cat Photo App (HTML)
 - [X] Cafe Menu (CSS)
 - [X] Colored Markers (CSS colors)
-- [ ] Registration Form (HTML forms)
+- [X] Registration Form (HTML forms)
 - [ ] **Survey Form** (Certification Project)
 - [ ] Rothko Painting (CSS box model)
 - [ ] Photo Gallery (CSS flexbox)
