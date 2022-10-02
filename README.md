@@ -5,7 +5,7 @@
 ## projects:
 - [X] Cat Photo App (HTML)
 - [X] Cafe Menu (CSS)
-- [ ] Colored Markers (CSS colors)
+- [X] Colored Markers (CSS colors)
 - [ ] Registration Form (HTML forms)
 - [ ] **Survey Form** (Certification Project)
 - [ ] Rothko Painting (CSS box model)
