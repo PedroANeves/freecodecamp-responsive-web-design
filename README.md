@@ -7,7 +7,7 @@
 - [X] Cafe Menu (CSS)
 - [X] Colored Markers (CSS colors)
 - [X] Registration Form (HTML forms)
-- [ ] **Survey Form** (Certification Project)
+- [X] **Survey Form** (Certification Project)
 - [ ] Rothko Painting (CSS box model)
 - [ ] Photo Gallery (CSS flexbox)
 - [ ] Nutrition Label (typography)

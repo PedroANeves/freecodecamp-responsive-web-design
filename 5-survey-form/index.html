@@ -1,0 +1,55 @@
+<!DOCTYPE hmtl>
+<html>
+
+<head>
+  <meta lang="en">
+  <link rel="stylesheet" href="styles.css">
+  <title>Survey Form</title>
+</head>
+
+<body>
+  <h1 id="title">Survey Form Certification Project</h1>
+  <p id="description">A short explanation.</p>
+  <form id="survey-form">
+    <fieldset id="personal-info">
+      <label for="name" id="name-label">Your name: <input type="text" id="name" required placeholder="joe"></label>
+      <label for="email" id="email-label">Your e-mail: <input type="email" id="email" required
+          placeholder="joe@joe.com"></label>
+      <label for="number" id="number-label">Your number: <input type="number" id="number" min="10000000" max="99999999"
+          placeholder="12345678"></label>
+    </fieldset>
+    <fieldset>
+      <label for="dropdown">pick a poison:
+        <select id="dropdown">
+          <option value="">(pick me!)</option>
+          <option value="a">a</option>
+          <option value="b">b</option>
+          <option value="c">c</option>
+          <option value="d">d</option>
+          <option value="e">e</option>
+          <option value="f">f</option>
+        </select>
+      </label>
+      <label for="hot">
+        <input type="radio" id="hot" name="hot-cold" value="hot">hot</input>
+      </label>
+      <label for="cold">
+        <input type="radio" id="pick" name="hot-cold" value="cold">cold</input>
+      </label>
+    </fieldset>
+    <fieldset>
+      <label for="a"><input type="checkbox" id="a" name="a" value="a"> a</label>
+      <label for="b"><input type="checkbox" id="b" name="b" value="b"> b</label>
+      <label for="c"><input type="checkbox" id="c" name="c" value="c"> c</label>
+      <label for="d"><input type="checkbox" id="d" name="d" value="d"> d</label>
+      <label for="e"><input type="checkbox" id="e" name="e" value="e"> e</label>
+    </fieldset>
+    <fieldset>
+      <label for="comments">Comments: <textarea id="comments" name="comments"
+          placeholder="type away!"></textarea></label>
+    </fieldset>
+    <input type="submit" id="submit" value="GO!">
+  </form>
+</body>
+
+</html>
