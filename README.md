@@ -9,7 +9,7 @@
 - [X] Registration Form (HTML forms)
 - [X] **Survey Form** (Certification Project)
 - [X] Rothko Painting (CSS box model)
-- [ ] Photo Gallery (CSS flexbox)
+- [X] Photo Gallery (CSS flexbox)
 - [ ] Nutrition Label (typography)
 - [ ] Quiz (accessibility)
 - [ ] **Tribute Page** (Certification Project)
