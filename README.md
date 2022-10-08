@@ -10,7 +10,7 @@
 - [X] **Survey Form** (Certification Project)
 - [X] Rothko Painting (CSS box model)
 - [X] Photo Gallery (CSS flexbox)
-- [/] Nutrition Label (typography)
+- [X] Nutrition Label (typography)
 - [ ] Quiz (accessibility)
 - [ ] **Tribute Page** (Certification Project)
 - [ ] Balance Sheet (CSS pseudo selectors)
